@@ -1,0 +1,14 @@
+C:\Users\Nao7c\source\repos\MuteVideos\MuteVideos\bin\Release\net8.0\MuteVideos.exe
+C:\Users\Nao7c\source\repos\MuteVideos\MuteVideos\bin\Release\net8.0\MuteVideos.deps.json
+C:\Users\Nao7c\source\repos\MuteVideos\MuteVideos\bin\Release\net8.0\MuteVideos.runtimeconfig.json
+C:\Users\Nao7c\source\repos\MuteVideos\MuteVideos\bin\Release\net8.0\MuteVideos.dll
+C:\Users\Nao7c\source\repos\MuteVideos\MuteVideos\bin\Release\net8.0\MuteVideos.pdb
+C:\Users\Nao7c\source\repos\MuteVideos\MuteVideos\obj\Release\net8.0\MuteVideos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nao7c\source\repos\MuteVideos\MuteVideos\obj\Release\net8.0\MuteVideos.AssemblyInfoInputs.cache
+C:\Users\Nao7c\source\repos\MuteVideos\MuteVideos\obj\Release\net8.0\MuteVideos.AssemblyInfo.cs
+C:\Users\Nao7c\source\repos\MuteVideos\MuteVideos\obj\Release\net8.0\MuteVideos.csproj.CoreCompileInputs.cache
+C:\Users\Nao7c\source\repos\MuteVideos\MuteVideos\obj\Release\net8.0\MuteVideos.dll
+C:\Users\Nao7c\source\repos\MuteVideos\MuteVideos\obj\Release\net8.0\refint\MuteVideos.dll
+C:\Users\Nao7c\source\repos\MuteVideos\MuteVideos\obj\Release\net8.0\MuteVideos.pdb
+C:\Users\Nao7c\source\repos\MuteVideos\MuteVideos\obj\Release\net8.0\MuteVideos.genruntimeconfig.cache
+C:\Users\Nao7c\source\repos\MuteVideos\MuteVideos\obj\Release\net8.0\ref\MuteVideos.dll
